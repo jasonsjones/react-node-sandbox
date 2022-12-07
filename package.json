@@ -49,7 +49,7 @@
     "cors": "^2.8.4",
     "dotenv": "^4.0.0",
     "ejs": "^2.5.7",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "express-graphql": "^0.6.7",
     "express-session": "^1.15.5",
     "flux": "^3.1.3",
